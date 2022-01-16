@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQSSimple", "SQSSimple\SQSSimple.csproj", "{0151A418-F8A9-4F88-865E-EF8C490A7407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQSSimple.Business", "SQSSimple.Business\SQSSimple.Business.csproj", "{473760A5-AC64-4925-A349-658DE1FAAA0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQSSimple.Domain", "SQSSimple.Domain\SQSSimple.Domain.csproj", "{3D077A64-9680-424C-BA25-71E5C465D781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0151A418-F8A9-4F88-865E-EF8C490A7407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0151A418-F8A9-4F88-865E-EF8C490A7407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0151A418-F8A9-4F88-865E-EF8C490A7407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0151A418-F8A9-4F88-865E-EF8C490A7407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473760A5-AC64-4925-A349-658DE1FAAA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473760A5-AC64-4925-A349-658DE1FAAA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473760A5-AC64-4925-A349-658DE1FAAA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473760A5-AC64-4925-A349-658DE1FAAA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D077A64-9680-424C-BA25-71E5C465D781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D077A64-9680-424C-BA25-71E5C465D781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D077A64-9680-424C-BA25-71E5C465D781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D077A64-9680-424C-BA25-71E5C465D781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
